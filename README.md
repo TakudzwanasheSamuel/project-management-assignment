@@ -1,6 +1,6 @@
 # MSU Dining Analytics System
 
-A machine learning-powered prediction and analytics system for Michigan State University dining services. This project combines a Flask REST API with an interactive Plotly Dash dashboard to predict meal service quantities and analyze dining patterns.
+A machine learning-powered prediction and analytics system for Midlands State University dining services. This project combines a Flask REST API with an interactive Plotly Dash dashboard to predict meal service quantities and analyze dining patterns.
 
 ## 🎯 Overview
 
